@@ -1,4 +1,4 @@
-# 🧪 Airbnb.com Web Testing Project – Kelompok F4
+# Airbnb.com Web Testing Project – Kelompok F4
 
 ![Airbnb Logo](./public/img/airbnblogo.png)
 
