@@ -1,8 +1,5 @@
 # Airbnb.com Web Testing Project – Kelompok F4
 
-![Airbnb Logo](./public/img/airbnblogo.png)
-
-Selamat datang di repository pengujian aplikasi web **Airbnb**! Proyek ini dilakukan oleh **Kelompok F4** sebagai bagian dari studi dan praktik pengujian perangkat lunak, dengan fokus pada aplikasi **Airbnb versi web (v25.22)**. Pengujian mencakup metode **manual** dan **automated** untuk memastikan kualitas dan konsistensi fitur-fitur utama.
 
 ---
 
@@ -17,6 +14,7 @@ Selamat datang di repository pengujian aplikasi web **Airbnb**! Proyek ini dilak
 
 ---
 
+![Airbnb Logo](./public/img/airbnblogo.png)
 ## 🏢 Informasi Umum
 
 Airbnb adalah platform online global yang menghubungkan pemilik properti dengan penyewa, baik untuk jangka pendek maupun panjang. Layanan ini memungkinkan pengguna menjadi **host** atau **guest**, dalam sistem ekonomi berbagi modern.
