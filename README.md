@@ -1,8 +1,5 @@
 # Airbnb.com Web Testing Project – Kelompok F4
 
-
----
-
 ## 👥 Anggota Kelompok F4
 
 | Nama Lengkap                         | NIM          | Peran         |
@@ -12,7 +9,6 @@
 | Laurentius Nicholas Christmarines  | 2215061059   | Anggota        |
 | Theofani Hati Kusumawardani        | 2255061004   | Anggota        |
 
----
 
 ![Airbnb Logo](./public/img/airbnblogo.png)
 ## 🏢 Informasi Umum
