@@ -1,6 +1,6 @@
 # Airbnb.com Web Testing Project – Kelompok F4
 
-## 👥 Anggota Kelompok F4
+## 👥 Anggota Kelompok
 
 | Nama Lengkap                         | NIM          | Peran         |
 |-------------------------------------|--------------|----------------|
