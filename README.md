@@ -11,7 +11,7 @@
 
 
 ## 🏢 Informasi Umum
-![Airbnb Logo](./public/img/airbnblogo.png)
+![Airbnb Logo](./airbnblogo.png)
 
 Airbnb adalah platform online global yang menghubungkan pemilik properti dengan penyewa, baik untuk jangka pendek maupun panjang. Layanan ini memungkinkan pengguna menjadi **host** atau **guest**, dalam sistem ekonomi berbagi modern.
 
